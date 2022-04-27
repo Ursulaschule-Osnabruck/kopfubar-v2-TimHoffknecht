@@ -1,3 +1,19 @@
-body { 
-    background-color: lightblue;
-    h1 color:black; font-size: 100px;}
+            h1 { color:black; font-size: 100px; }
+            h2 { color:#007e7e; font-size: 50px;}
+            body { background-color: white;}   
+            #garantie {
+                font-style: oblique;
+                color: #444;
+                margin: 30px dashed white;
+                background-color: #a7cece;
+                padding: 50px 0px 50px 90px;
+               background-image: url(bilder/hintergrund.gif);
+               background-repeat: no-repeat;
+               
+
+               
+
+
+
+            }
+                      
